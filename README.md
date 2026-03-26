@@ -24,7 +24,19 @@
 ### 🚀 Featured Projects
 
 - 🧠 **Smart Question Predictor:** Currently developing this tool to predict and structure academic questions.
-- 🐍 **Java Script Mini-Projects:** Developed several interactive desktop applications including a Digital Theme Clock, a functional Calculator, and a Rock-Paper-Scissors game.
+- 🐍 **Python Mini-Projects:** Developed several interactive desktop applications including a Digital Theme Clock, a functional Calculator, and a Rock-Paper-Scissors game.
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assiantadarsh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assiantadarsh&theme=tokyonight" alt="GitHub Streak" width="400" />
+  <br>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=adarsh9179&theme=dark" alt="LeetCode Stats" width="400" />
+</p>
 
 ---
 
@@ -39,29 +51,9 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-**Tools & Version Control:**
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assiantadarsh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assiantadarsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiantadarsh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
-
-Feel free to reach out for collaborations, project discussions, or just to say hi!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-shukla-04a74339a" target="_blank">
