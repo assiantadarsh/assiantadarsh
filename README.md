@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student | Aspiring Frontend Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=assiantadarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=assiantadarsh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -16,26 +16,27 @@
 - 🎓 **Computer Science Engineering Student** at SAGE University Bhopal (Powered by Sunstone)
 - 💻 Passionate about building clean, responsive web interfaces and solving logic problems.
 - 🌱 Currently learning and improving my frontend development skills and expanding my knowledge in Python.
-- 🚀 I enjoy tackling coding challenges and working on functional projects, from C programming scripts to intelligent tools like the **Smart Question Predictor**.
+- 🚀 Working on **Smart Question Predictor** to help students with academic prep.
 - ⚡ **Fun fact:** I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🧠 **Smart Question Predictor:** Currently developing this tool to predict and structure academic questions.
-- 🐍 **Python Mini-Projects:** Developed several interactive desktop applications including a Digital Theme Clock, a functional Calculator, and a Rock-Paper-Scissors game.
+- 🧠 **Smart Question Predictor:** An intelligent tool designed to predict and structure university-level questions.
+- 🐍 **Java Script Mini-Projects:** Built a Digital Theme Clock, a functional Calculator, and a Rock-Paper-Scissors game.
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assiantadarsh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assiantadarsh&theme=tokyonight" alt="GitHub Streak" width="400" />
-  <br>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=adarsh9179&theme=dark" alt="LeetCode Stats" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=assiantadarsh&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=assiantadarsh&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assiantadarsh&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
