@@ -1,105 +1,72 @@
-# Adarsh Shukla
+<h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
+<h3 align="center">Computer Science Engineering Student | Aspiring Frontend Web Developer</h3>
 
-**Computer Science Engineering Student** • **Aspiring Frontend Web Developer** • **Problem Solver**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=assiantadarsh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
----
-
-### About
-
-I build clean, responsive interfaces and reliable Python tools. I focus on readable code, pragmatic design, and measurable impact — whether that's a polished UI, an automation script, or a small machine learning prototype. Currently studying Computer Science Engineering at **SAGE University Bhopal** and actively expanding my Python and frontend skillset.
-
----
-
-### Quick Links
-
-- **GitHub**: https://github.com/assiantadarsh  
-- **LinkedIn**: https://www.linkedin.com/in/adarsh-shukla-04a74339a  
-- **HackerRank**: https://www.hackerrank.com/profile/help15  
-- **Instagram**: https://www.instagram.com/____a.s____912?igsh=MTlhNmR5eTlsam1rbg==
-
----
-
-### Skills
-
-| **Frontend** | **Languages** | **Tools & VCS** |
-|---|---|---|
-| HTML; CSS; Responsive Design | **Python**; C; C++ | **Git & GitHub**; CLI; VS Code |
-
-**Other strengths:** problem solving, algorithmic thinking, debugging, writing clear documentation.
-
----
-
-### Professional Summary
-
-- **Focus areas:** Frontend development fundamentals, Python scripting, data processing, and algorithmic problem solving.  
-- **Approach:** Start with a clear spec, iterate quickly, keep interfaces intuitive, and write tests or checks for reliability.  
-- **Goal:** Contribute to projects that combine clean UI with robust backend logic and deliver measurable value to users.
-
----
-
-### Featured Projects
-
-> Replaced JavaScript mini-projects with focused Python projects to showcase backend and full-stack capabilities.
-
-#### Smart Question Predictor
-**Type:** Python · NLP · Flask  
-**Overview:** An intelligent tool that analyzes past question patterns and suggests likely university-level questions and structured outlines for study.  
-**Highlights:** data preprocessing pipeline; model prototype; Flask API for predictions; clear evaluation metrics.
-
-#### Exam Prep CLI Toolkit
-**Type:** Python · CLI  
-**Overview:** Command-line utilities to generate randomized practice tests, track progress, and export results to CSV for review.  
-**Highlights:** modular design; unit-tested core; CSV export; simple local persistence.
-
-#### Web Scraper and Data Aggregator
-**Type:** Python · Scrapy / BeautifulSoup  
-**Overview:** Reliable scraper to collect academic resources and structure them into searchable JSON datasets.  
-**Highlights:** polite crawling, rate limiting, data normalization, and automated scheduling.
-
-#### Portfolio Backend (Flask)
-**Type:** Python · Flask · REST API  
-**Overview:** Lightweight backend powering a personal portfolio and project showcase with an admin interface for content updates.  
-**Highlights:** secure endpoints, image handling, and deployment-ready configuration.
-
-#### Intro ML Project
-**Type:** Python · scikit-learn · Jupyter  
-**Overview:** Small supervised learning project demonstrating end-to-end workflow: data cleaning, feature engineering, model training, and evaluation.  
-**Highlights:** reproducible notebook, clear visualizations, and model performance summary.
-
----
-
-### How I Work
-
-- **Code quality:** readable, modular, and documented.  
-- **Version control:** feature branches, descriptive commits, and PRs.  
-- **Testing:** unit tests for core logic; smoke tests for integrations.  
-- **Design:** mobile-first responsive layouts and accessible UI patterns.
-
----
-
-### GitHub Profile Cards
-
-<!-- GitHub stats and top languages (these images update automatically) -->
-<p align="left">
-  <img alt="Adarsh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=assiantadarsh&show_icons=true&theme=dark&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiantadarsh&layout=compact&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Developer;C+%26+Python+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### Contact
+### 👨‍💻 About Me
 
-- **Email:** adarshbhai917963@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/adarsh-shukla-04a74339a  
-- **Open to:** internships, collaborative projects, and mentorship opportunities.
+- 🎓 **Computer Science Engineering Student** at SAGE University Bhopal (Powered by Sunstone)
+- 💻 Passionate about building clean, responsive web interfaces and solving logic problems.
+- 🌱 Currently learning and improving my frontend development skills and expanding my knowledge in Python.
+- 🚀 Working on **Smart Question Predictor** to help students with academic prep.
+- ⚡ **Fun fact:** I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
-### Visual Flair and Animations
+### 🚀 Featured Projects
 
-You can add subtle, professional animations to this README by embedding animated badges and SVGs. Example badges (use these or customize via shields.io):
+- 🧠 **Smart Question Predictor:** An intelligent tool designed to predict and structure university-level questions.
+- 🐍 **Java Script Mini-Projects:** Built a Digital Theme Clock, a functional Calculator, and a Rock-Paper-Scissors game.
 
-```md
-![Profile views](https://komarev.com/ghpvc/?username=assiantadarsh&color=0e75b6)
-![Top language](https://img.shields.io/badge/Top%20Language-Python-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20work-green?style=flat-square)
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=assiantadarsh&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=assiantadarsh&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assiantadarsh&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="94%" />
+</p>
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages & Web:**
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-shukla-04a74339a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/adarsh9179/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/help15" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.instagram.com/____a.s____912?igsh=MTlhNmR5eTlsam1rbg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
