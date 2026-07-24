@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
 
 <h3 align="center">
-  Computer Science Engineering Student | Aspiring Frontend Web Developer | Problem Solver
+  Computer Science Engineering Student | Aspiring Frontend Web Developer | Problem Solver 
 </h3>
 
 <p align="center">
